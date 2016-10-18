@@ -61,7 +61,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Platform Init
 PRODUCT_PACKAGES += \
     fstab.kitakami \
-    init.kitakami.pwr
+    init.kitakami.pwr \
+	init.kitakami
 
 # NFC packages
 PRODUCT_PACKAGES += \
